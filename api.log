@@ -1,0 +1,241 @@
+"2020-04-08 17-01-58 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Starting LogswaggerApplication on wisgnurun113 with PID 10264 (C:\Users\parla.yerli\Desktop\logswagger\target\classes started by parla.yerli in C:\Users\parla.yerli\Desktop\logswagger)
+""2020-04-08 17-01-58 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+""2020-04-08 17-01-58 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - No active profile set, falling back to default profiles: default
+""2020-04-08 17-01-58 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\parla.yerli\.m2\repository\org\glassfish\jaxb\jaxb-runtime\2.3.2\jaxb-runtime-2.3.2.jar referenced one or more files that do not exist: file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.xml.bind-api-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/txw2-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/istack-commons-runtime-3.0.8.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/stax-ex-1.8.1.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/FastInfoset-1.2.16.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.activation-api-1.2.1.jar
+""2020-04-08 17-01-58 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-04-08 17-01-58 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-04-08 17-01-59 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+""2020-04-08 17-01-59 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 54ms. Found 1 JPA repository interfaces.
+""2020-04-08 17-01-59 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-04-08 17-01-59 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-04-08 17-01-59 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+""2020-04-08 17-01-59 {restartedMain} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-04-08 17-02-00 {restartedMain} %PARSER_ERROR[Level] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+""2020-04-08 17-02-00 {restartedMain} %PARSER_ERROR[Level] org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+""2020-04-08 17-02-00 {restartedMain} %PARSER_ERROR[Level] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+""2020-04-08 17-02-00 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+""2020-04-08 17-02-01 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+""2020-04-08 17-02-01 {restartedMain} %PARSER_ERROR[Level] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+""2020-04-08 17-02-01 {restartedMain} %PARSER_ERROR[Level] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+""2020-04-08 17-02-01 {restartedMain} %PARSER_ERROR[Level] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2020-04-08 17-02-01 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-04-08 17-02-02 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2020-04-08 17-02-02 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+""2020-04-08 17-02-02 {restartedMain} %PARSER_ERROR[Level] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-04-08 17-02-02 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+""2020-04-08 17-02-02 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+""2020-04-08 17-02-02 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+""2020-04-08 17-02-02 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_1
+""2020-04-08 17-02-02 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_2
+""2020-04-08 17-02-02 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-04-08 17-02-02 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Started LogswaggerApplication in 5.353 seconds (JVM running for 6.619)
+""2020-04-08 17-02-03 {RMI TCP Connection(1)-192.168.255.26} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-04-08 17-05-09 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Starting LogswaggerApplication on wisgnurun113 with PID 32912 (C:\Users\parla.yerli\Desktop\logswagger\target\classes started by parla.yerli in C:\Users\parla.yerli\Desktop\logswagger)
+""2020-04-08 17-05-09 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+""2020-04-08 17-05-09 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - No active profile set, falling back to default profiles: default
+""2020-04-08 17-05-09 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\parla.yerli\.m2\repository\org\glassfish\jaxb\jaxb-runtime\2.3.2\jaxb-runtime-2.3.2.jar referenced one or more files that do not exist: file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.xml.bind-api-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/txw2-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/istack-commons-runtime-3.0.8.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/stax-ex-1.8.1.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/FastInfoset-1.2.16.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.activation-api-1.2.1.jar
+""2020-04-08 17-05-09 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-04-08 17-05-09 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-04-08 17-05-10 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+""2020-04-08 17-05-10 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 39ms. Found 1 JPA repository interfaces.
+""2020-04-08 17-05-11 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-04-08 17-05-11 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-04-08 17-05-11 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+""2020-04-08 17-05-11 {restartedMain} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-04-08 17-05-11 {restartedMain} %PARSER_ERROR[Level] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+""2020-04-08 17-05-11 {restartedMain} %PARSER_ERROR[Level] org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+""2020-04-08 17-05-11 {restartedMain} %PARSER_ERROR[Level] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+""2020-04-08 17-05-11 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+""2020-04-08 17-05-12 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+""2020-04-08 17-05-12 {restartedMain} %PARSER_ERROR[Level] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+""2020-04-08 17-05-12 {restartedMain} %PARSER_ERROR[Level] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+""2020-04-08 17-05-12 {restartedMain} %PARSER_ERROR[Level] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2020-04-08 17-05-12 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-04-08 17-05-13 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2020-04-08 17-05-13 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+""2020-04-08 17-05-13 {restartedMain} %PARSER_ERROR[Level] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-04-08 17-05-13 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+""2020-04-08 17-05-13 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+""2020-04-08 17-05-13 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+""2020-04-08 17-05-13 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_1
+""2020-04-08 17-05-13 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_2
+""2020-04-08 17-05-13 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-04-08 17-05-13 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Started LogswaggerApplication in 4.747 seconds (JVM running for 5.92)
+""2020-04-08 17-05-14 {RMI TCP Connection(2)-192.168.255.26} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-04-08 17-05-58 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Starting LogswaggerApplication on wisgnurun113 with PID 2452 (C:\Users\parla.yerli\Desktop\logswagger\target\classes started by parla.yerli in C:\Users\parla.yerli\Desktop\logswagger)
+""2020-04-08 17-05-58 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+""2020-04-08 17-05-58 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - No active profile set, falling back to default profiles: default
+""2020-04-08 17-05-58 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\parla.yerli\.m2\repository\org\glassfish\jaxb\jaxb-runtime\2.3.2\jaxb-runtime-2.3.2.jar referenced one or more files that do not exist: file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.xml.bind-api-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/txw2-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/istack-commons-runtime-3.0.8.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/stax-ex-1.8.1.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/FastInfoset-1.2.16.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.activation-api-1.2.1.jar
+""2020-04-08 17-05-58 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-04-08 17-05-58 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-04-08 17-05-59 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+""2020-04-08 17-05-59 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 40ms. Found 1 JPA repository interfaces.
+""2020-04-08 17-06-00 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-04-08 17-06-00 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-04-08 17-06-00 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+""2020-04-08 17-06-00 {restartedMain} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-04-08 17-06-00 {restartedMain} %PARSER_ERROR[Level] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+""2020-04-08 17-06-00 {restartedMain} %PARSER_ERROR[Level] org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+""2020-04-08 17-06-00 {restartedMain} %PARSER_ERROR[Level] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+""2020-04-08 17-06-01 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+""2020-04-08 17-06-01 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+""2020-04-08 17-06-01 {restartedMain} %PARSER_ERROR[Level] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+""2020-04-08 17-06-02 {restartedMain} %PARSER_ERROR[Level] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+""2020-04-08 17-06-02 {restartedMain} %PARSER_ERROR[Level] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2020-04-08 17-06-02 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-04-08 17-06-02 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2020-04-08 17-06-02 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+""2020-04-08 17-06-02 {restartedMain} %PARSER_ERROR[Level] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-04-08 17-06-02 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+""2020-04-08 17-06-02 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+""2020-04-08 17-06-02 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+""2020-04-08 17-06-03 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_1
+""2020-04-08 17-06-03 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_2
+""2020-04-08 17-06-03 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-04-08 17-06-03 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Started LogswaggerApplication in 4.715 seconds (JVM running for 6.007)
+""2020-04-08 17-06-03 {RMI TCP Connection(4)-192.168.255.26} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-04-08 17-12-14 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Starting LogswaggerApplication on wisgnurun113 with PID 38796 (C:\Users\parla.yerli\Desktop\logswagger\target\classes started by parla.yerli in C:\Users\parla.yerli\Desktop\logswagger)
+""2020-04-08 17-12-14 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+""2020-04-08 17-12-14 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - No active profile set, falling back to default profiles: default
+""2020-04-08 17-12-14 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\parla.yerli\.m2\repository\org\glassfish\jaxb\jaxb-runtime\2.3.2\jaxb-runtime-2.3.2.jar referenced one or more files that do not exist: file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.xml.bind-api-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/txw2-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/istack-commons-runtime-3.0.8.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/stax-ex-1.8.1.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/FastInfoset-1.2.16.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.activation-api-1.2.1.jar
+""2020-04-08 17-12-14 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-04-08 17-12-14 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-04-08 17-12-15 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+""2020-04-08 17-12-15 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 44ms. Found 1 JPA repository interfaces.
+""2020-04-08 17-12-15 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-04-08 17-12-15 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-04-08 17-12-15 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+""2020-04-08 17-12-15 {restartedMain} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-04-08 17-12-16 {restartedMain} %PARSER_ERROR[Level] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+""2020-04-08 17-12-16 {restartedMain} %PARSER_ERROR[Level] org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+""2020-04-08 17-12-16 {restartedMain} %PARSER_ERROR[Level] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+""2020-04-08 17-12-16 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+""2020-04-08 17-12-17 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+""2020-04-08 17-12-17 {restartedMain} %PARSER_ERROR[Level] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+""2020-04-08 17-12-17 {restartedMain} %PARSER_ERROR[Level] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+""2020-04-08 17-12-17 {restartedMain} %PARSER_ERROR[Level] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2020-04-08 17-12-17 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-04-08 17-12-17 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2020-04-08 17-12-18 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+""2020-04-08 17-12-18 {restartedMain} %PARSER_ERROR[Level] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-04-08 17-12-18 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+""2020-04-08 17-12-18 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+""2020-04-08 17-12-18 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+""2020-04-08 17-12-18 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_1
+""2020-04-08 17-12-18 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_2
+""2020-04-08 17-12-18 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-04-08 17-12-18 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Started LogswaggerApplication in 5.018 seconds (JVM running for 6.395)
+""2020-04-08 17-12-18 {RMI TCP Connection(1)-192.168.255.26} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-04-08 17-12-21 {http-nio-8080-exec-1} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+""2020-04-08 17-12-25 {http-nio-8080-exec-2} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+""2020-04-08 17-12-27 {http-nio-8080-exec-3} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+""2020-04-08 17-12-28 {http-nio-8080-exec-4} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+""2020-04-08 17-12-28 {http-nio-8080-exec-5} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+""2020-04-08 17-12-29 {http-nio-8080-exec-6} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+""2020-04-08 17-12-29 {http-nio-8080-exec-7} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+""2020-04-08 17-12-29 {http-nio-8080-exec-8} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+""2020-04-08 17-12-29 {http-nio-8080-exec-9} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+""2020-04-08 17-12-29 {http-nio-8080-exec-10} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+""2020-04-08 17-17-28 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Starting LogswaggerApplication on wisgnurun113 with PID 32028 (C:\Users\parla.yerli\Desktop\logswagger\target\classes started by parla.yerli in C:\Users\parla.yerli\Desktop\logswagger)
+""2020-04-08 17-17-28 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+""2020-04-08 17-17-28 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - No active profile set, falling back to default profiles: default
+""2020-04-08 17-17-28 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\parla.yerli\.m2\repository\org\glassfish\jaxb\jaxb-runtime\2.3.2\jaxb-runtime-2.3.2.jar referenced one or more files that do not exist: file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.xml.bind-api-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/txw2-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/istack-commons-runtime-3.0.8.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/stax-ex-1.8.1.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/FastInfoset-1.2.16.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.activation-api-1.2.1.jar
+""2020-04-08 17-17-28 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-04-08 17-17-28 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-04-08 17-17-29 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+""2020-04-08 17-17-29 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 53ms. Found 1 JPA repository interfaces.
+""2020-04-08 17-17-29 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-04-08 17-17-29 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-04-08 17-17-29 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+""2020-04-08 17-17-29 {restartedMain} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-04-08 17-17-30 {restartedMain} %PARSER_ERROR[Level] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+""2020-04-08 17-17-30 {restartedMain} %PARSER_ERROR[Level] org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+""2020-04-08 17-17-30 {restartedMain} %PARSER_ERROR[Level] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+""2020-04-08 17-17-30 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+""2020-04-08 17-17-31 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+""2020-04-08 17-17-31 {restartedMain} %PARSER_ERROR[Level] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+""2020-04-08 17-17-31 {restartedMain} %PARSER_ERROR[Level] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+""2020-04-08 17-17-31 {restartedMain} %PARSER_ERROR[Level] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2020-04-08 17-17-31 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-04-08 17-17-31 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2020-04-08 17-17-32 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+""2020-04-08 17-17-32 {restartedMain} %PARSER_ERROR[Level] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-04-08 17-17-32 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+""2020-04-08 17-17-32 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+""2020-04-08 17-17-32 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+""2020-04-08 17-17-32 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_1
+""2020-04-08 17-17-32 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_2
+""2020-04-08 17-17-32 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-04-08 17-17-32 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Started LogswaggerApplication in 5.006 seconds (JVM running for 6.317)
+""2020-04-08 17-17-33 {RMI TCP Connection(1)-192.168.255.26} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-04-08 17-18-19 {http-nio-8080-exec-2} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY!!! LOOK... DELETE MOVIE!!!..
+""2020-04-08 17-18-35 {http-nio-8080-exec-4} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+""2020-04-08 17-18-53 {http-nio-8080-exec-7} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY!!! LOOK... SAVE MOVIE ..
+""2020-04-08 18-31-36 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Starting LogswaggerApplication on wisgnurun113 with PID 24180 (C:\Users\parla.yerli\Desktop\logswagger\target\classes started by parla.yerli in C:\Users\parla.yerli\Desktop\logswagger)
+""2020-04-08 18-31-36 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+""2020-04-08 18-31-36 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - No active profile set, falling back to default profiles: default
+""2020-04-08 18-31-36 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\parla.yerli\.m2\repository\org\glassfish\jaxb\jaxb-runtime\2.3.2\jaxb-runtime-2.3.2.jar referenced one or more files that do not exist: file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.xml.bind-api-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/txw2-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/istack-commons-runtime-3.0.8.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/stax-ex-1.8.1.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/FastInfoset-1.2.16.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.activation-api-1.2.1.jar
+""2020-04-08 18-31-36 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-04-08 18-31-36 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-04-08 18-31-37 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+""2020-04-08 18-31-37 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 55ms. Found 1 JPA repository interfaces.
+""2020-04-08 18-31-38 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-04-08 18-31-38 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-04-08 18-31-38 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+""2020-04-08 18-31-38 {restartedMain} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-04-08 18-31-38 {restartedMain} %PARSER_ERROR[Level] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+""2020-04-08 18-31-38 {restartedMain} %PARSER_ERROR[Level] org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+""2020-04-08 18-31-38 {restartedMain} %PARSER_ERROR[Level] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+""2020-04-08 18-31-38 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+""2020-04-08 18-31-39 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+""2020-04-08 18-31-39 {restartedMain} %PARSER_ERROR[Level] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+""2020-04-08 18-31-39 {restartedMain} %PARSER_ERROR[Level] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+""2020-04-08 18-31-39 {restartedMain} %PARSER_ERROR[Level] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2020-04-08 18-31-40 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-04-08 18-31-40 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2020-04-08 18-31-40 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+""2020-04-08 18-31-40 {restartedMain} %PARSER_ERROR[Level] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-04-08 18-31-40 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+""2020-04-08 18-31-40 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+""2020-04-08 18-31-40 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+""2020-04-08 18-31-40 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_1
+""2020-04-08 18-31-40 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_2
+""2020-04-08 18-31-41 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-04-08 18-31-41 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Started LogswaggerApplication in 4.903 seconds (JVM running for 6.658)
+""2020-04-08 18-31-42 {RMI TCP Connection(3)-192.168.255.26} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-04-08 18-31-56 {http-nio-8080-exec-1} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY!!! LOOK... SAVE MOVIE ..
+""2020-04-08 18-32-15 {http-nio-8080-exec-4} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+""2020-04-08 19-00-49 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Starting LogswaggerApplication on wisgnurun113 with PID 30608 (C:\Users\parla.yerli\Desktop\logswagger\target\classes started by parla.yerli in C:\Users\parla.yerli\Desktop\logswagger)
+""2020-04-08 19-00-49 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+""2020-04-08 19-00-49 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - No active profile set, falling back to default profiles: default
+""2020-04-08 19-00-49 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.restart.ChangeableUrls - The Class-Path manifest attribute in C:\Users\parla.yerli\.m2\repository\org\glassfish\jaxb\jaxb-runtime\2.3.2\jaxb-runtime-2.3.2.jar referenced one or more files that do not exist: file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.xml.bind-api-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/txw2-2.3.2.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/istack-commons-runtime-3.0.8.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/stax-ex-1.8.1.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/FastInfoset-1.2.16.jar,file:/C:/Users/parla.yerli/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.2/jakarta.activation-api-1.2.1.jar
+""2020-04-08 19-00-49 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2020-04-08 19-00-49 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2020-04-08 19-00-50 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+""2020-04-08 19-00-50 {restartedMain} %PARSER_ERROR[Level] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 40ms. Found 1 JPA repository interfaces.
+""2020-04-08 19-00-51 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+""2020-04-08 19-00-51 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2020-04-08 19-00-51 {restartedMain} %PARSER_ERROR[Level] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+""2020-04-08 19-00-51 {restartedMain} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2020-04-08 19-00-51 {restartedMain} %PARSER_ERROR[Level] o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+""2020-04-08 19-00-51 {restartedMain} %PARSER_ERROR[Level] org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+""2020-04-08 19-00-51 {restartedMain} %PARSER_ERROR[Level] o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+""2020-04-08 19-00-51 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+""2020-04-08 19-00-52 {restartedMain} %PARSER_ERROR[Level] com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+""2020-04-08 19-00-52 {restartedMain} %PARSER_ERROR[Level] org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+""2020-04-08 19-00-52 {restartedMain} %PARSER_ERROR[Level] o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+""2020-04-08 19-00-52 {restartedMain} %PARSER_ERROR[Level] o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2020-04-08 19-00-52 {restartedMain} %PARSER_ERROR[Level] o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+""2020-04-08 19-00-53 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2020-04-08 19-00-53 {restartedMain} %PARSER_ERROR[Level] o.s.b.a.e.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+""2020-04-08 19-00-53 {restartedMain} %PARSER_ERROR[Level] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+""2020-04-08 19-00-53 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+""2020-04-08 19-00-53 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+""2020-04-08 19-00-53 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+""2020-04-08 19-00-53 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_1
+""2020-04-08 19-00-53 {restartedMain} %PARSER_ERROR[Level] s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: handleUsingGET_2
+""2020-04-08 19-00-53 {restartedMain} %PARSER_ERROR[Level] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+""2020-04-08 19-00-53 {restartedMain} %PARSER_ERROR[Level] c.e.logswagger.LogswaggerApplication - Started LogswaggerApplication in 4.664 seconds (JVM running for 5.862)
+""2020-04-08 19-00-54 {RMI TCP Connection(1)-192.168.255.26} %PARSER_ERROR[Level] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2020-04-08 19-01-03 {http-nio-8080-exec-2} %PARSER_ERROR[Level] c.e.l.controller.MovieController - SUCCESSFULLY !!! LOOK...LIST MOVIES! 
+"
